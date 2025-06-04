@@ -1,0 +1,46 @@
+
+*{
+    padding: 0px;
+    font-family: sans-serif, monospace ;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 35px;
+    background-color: gray;
+}
+.container{
+    background-color: white;
+    height: 90vh;
+    width: 50vw;
+    padding: 50px;
+    display: block;
+    border: 3px solid black;
+}
+.habilidades{
+    color: #3BA44F;
+}
+
+.texto-azul{
+    color: #3985CA;
+}
+
+h2{
+    font-size: 2em;
+}
+
+.linea{
+    display: inline-block;
+    width: 88%;
+    height: 3px;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: #426586;
+}
+p{
+    font-weight: 600;
+}

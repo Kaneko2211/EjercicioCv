@@ -3,4 +3,5 @@ Pagina del ejercicio <a target="_blank" rel="noopener noreferrer" href="https://
 Mi sitio subido <a target="_blank" rel="noopener noreferrer" href="https://kaneko2211.github.io/EjercicioCv/">https://kaneko2211.github.io/EjercicioCv/</a> 
 
 
-![Captura de pantalla 2022-08-08 102740](https://github.com/user-attachments/assets/3a1c0917-25c3-4222-89c4-c3c8f5a3ed94)
+
+![image](https://github.com/user-attachments/assets/f2d095f0-b5d7-445a-88c7-bbb9e167145f)
